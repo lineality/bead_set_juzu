@@ -83,7 +83,7 @@ As a final note on interpretation and nuance, something that is difficult not to
 
 
 Recognizing & Correcting Mistakes: Learning
-As another theme-connecting example, the more than second half of the widely known (but not widely read) 'Leviathan' by Thomas Hobbes is an exploration attempting to understand learning, mind-consciousness, and signals within individuals and society: How do learning-machines work? How does information affect society? Needless to say, centuries later learning and mind are still a mystery, so Hobbes' exploration is largely a collection of questions and references in a collage of study, but it is not a great leap of assumption to presume that (unless he wrote and published the second half of the book by accident) he strongly felt that learning and mind were very important for societal functioning and preventing social collapse.
+As another theme-connecting example, the second half (or more) of the widely known (but not widely read) 'Leviathan' by Thomas Hobbes (who famously lived through, and later worked out of France in response to, the English Civil War) is an exploration attempting to understand learning, mind-consciousness, and signals within individuals and society: How do learning-machines work? How does information affect society? Needless to say, centuries later learning and mind are still a mystery, so Hobbes' exploration is largely a collection of questions and references in a collage of study, but it is not a great leap of assumption to presume that (unless he wrote and published the second half of the book by accident) he strongly felt that learning and mind were very important for societal functioning and preventing social collapse.
 
 This is yet another example of mind-study research that followed a period of civil-war, upheaval, and societal collapse, inspiring survivors to try to understand what mistakes lead to bad-thinking, bad-perceptions, wrong-beliefs, misguided agendas, and societal collapse driven by delusions disconnected from reality. 
 
@@ -164,7 +164,49 @@ https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh
 https://www.dharmadrum.org/portal_d8_cnt_page.php?folder_id=72&cnt_id=346&up_page=1 
 
 
+Summary of Dual .vs Non-Dual: 'Solid & Strange', 'Pro-World or Scapegoat'
 
+recap: It may be helpful to think of this as three topics:
+1. Is the agenda to connect to the world or to destroy / escape from the world?
+2. Experiences that cannot be put into words, or the time-language space of every-day life?
+3. Separating the semantics from the writer's intended focus.
+
+
+(This is a very short overview of one part of a large set of topics.)
+
+Trying to avoid getting lost in the weeds here, I want to mention one last key topic that may be useful to get ahead of and keep an eye on. I will start with the clearer approach to this, and touch on the semantic issues second.
+"Solid" and "Strange"
+If you read about Zen, mindful, Buddhist, Hindu, etc. related areas sooner or later you will come across direct or indirect references to the topics/issues of (or debates-around) dualism and non-dualism, or 'distinctions' for example the boundaries between yourself and other people (and other 'reality-defining' rules). For the sake of clarity here we will oversimply this into two items: 'solidness' (often associated with STEM and every-day life) and 'strangeness' (such as the logic-defying 'boundary-dissolution' and 'high dimensional' spaces of visionary experiences (from William James to Michael Polan) (and perhaps sub-symbolics vector spaces). 
+
+Setting aside the term 'dual' for now, the concept that I want to emphasize is whether a writer's position (opinion) is arguing for a coexistence of 'solidness' and 'strangeness' (that they somehow live together), or if an author is scape-goating one or the other, with an agenda to make one of them ("Solid" and "Strange") to be what exists in the universe (as if a writer could somehow effect that...). 
+
+There will be people who will argue for integration of "Solid" and "Strange" (however paradoxical), and there will be people who will simplistically try to separate and pick a favorite between "Solid" and "Strange" (meditation people by and large would favor strange, and so-called 'skeptic' trolls bully people with simplistic 'solid' ideologies). But, people change over time. When young a writer may veer into anti-solid fundamentalism, and then when older they may favor integration. 
+
+The agenda distinction is rather clear: Is your goal to define this world as 'hell-fiction' and to destroy the world, or not? This is not something to hedge on: like asking Nazi's about their Jewish policy at Neurenberg.). 
+
+"Dual" and "Reality"
+Now, the semantics. While the above distinction should be clear (Is your goal to define this world as 'hell-fiction' and to destroy the world, or not?), the semantics of 'dual' vs. 'non-dual' are messy because of how duality distinctions operate on so many levels for so many parts of the topic. It is probably best to view 'duality' more as a metaphor, or as a selective reference to a specific concept, rather than trying to make sense of an extreme absolute definition.
+
+The semantics become confusing when each person defines "reality" in a particular way, which can make it so that people are talking past each-other, or speaking in a way that is overly abstract, or simply muddled and self-inconsistent. (Note: I used the term 'solid' above, and not 'reality'.)
+
+Let's see how this can become confusing if we use the terms 'reality' and 'dual' instead of 'sold' and 'strange.'
+Is the goal is to connect to and integrate and integrate with a dynamic world seen as integrating with value, or is the scope (as simplistic and 'fundamentalist' 'literalist' 'hell-religiosities' often are) to demonize and scape-goat "reality" as being the cause of all bad-stuff, and that the one true path to all good stuff is escaping from or destroying reality and the world (amature disinformation claiming "my super reality is the real reality and your real-world is false!" 
+
+The terms "dual" and "distinction" are problematic because it is difficult to use them as a scalpel on one only point, without being a sledge hammer that applies to the whole conversation. A key point of disagreement / confusion is that some people refer to 'Non-Dual' as being neither Dual nor Non-Dual, and some people refer to Non-Dual as a single level of meaning: a space that lacks dualities. And perhaps one can't escape the fact that any and all identifications made (including 'dual' and 'non-dual' and 'both-neither-dual-nondoal' are all linguistic distinctions and involve linguistic dualities. 
+
+
+Context: Transcendental Experience or Day-To-Day Administrative Logistics?
+It is also important (and perhaps importantly not possible) to identify what the writer's context is. A passage designed to help someone to navigate a place outside of body and time should not be (unless for art-fun) applied to the completely different context of the world in every-day life. 
+
+
+Recap: It may be helpful to think of this as three topics:
+1. Is the agenda to connect to the world or to destroy / escape from the world?
+2. Experiences that cannot be put into words, or the time-language space of every-day life?
+3. Separating the semantics from the writer's intended focus.
+
+
+Also:
+For math and theology, there are writers who arbitrarily delight in saying things that do not have a clear intended meaning, and there are readers who arbitrarily delight in reading things that are unclear. As an 'art' or 'game' hobby, this is probably fine, possibly great. But for consciousness research, and medical health, it is important not to confuse someone who is trying to speak meaningfully about a topic vs. someone who is deliberately entertaining themselves and others by saying meaningless confusions (which might have lovely artistic, or cathartic, or other value). There are also the well documented areas and disinformation and other non-meaningful language areas. Just because something was said does not indicate that there is any meaning in it to be read into, very often no meaning was ever intended. 
 
 # Try three variables both ways:
 
@@ -185,5 +227,6 @@ Sometimes, just have your own experience. But sometimes, pick up a book.
 For example, whether paper, audible, or e-book, this overview-collection of Dogen's ideas is probably an accessible place to start (whereas all the above literary works would be...more time consuming (though very much recommended)).
 https://www.amazon.com/The-Essential-Dogen-audiobook/dp/B00OTWGJ6Y/ 
 https://www.amazon.com/Essential-Dogen-Writings-Great-Master-ebook/dp/B00E3V7RQ2 
+
 
 
