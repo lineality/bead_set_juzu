@@ -196,8 +196,47 @@ The terms "dual" and "distinction" are problematic because it is difficult to us
 
 
 Context: Transcendental Experience or Day-To-Day Administrative Logistics?
-It is also important (and perhaps importantly not possible) to identify what the writer's context is. A passage designed to help someone to navigate a place outside of body and time should not be (unless for art-fun) applied to the completely different context of the world in every-day life. 
+It is also important (and perhaps sometimes importantly not possible) to identify what the writer's context is. A passage designed to help someone to navigate a place outside of body and time should not be (unless for art-fun) applied to the completely different context of the world in every-day life.
 
+This may raise larger questions about whether two different writers use the same jargon talking about 'breaking through illusions' are talking about similar things. For example, one writer might be talking about exercises to help a local administrator not starve the local population by becoming a gambling maniac and mismanaging the local agricultural yield estimates. Another writer is talking about having an out of body cosmic connection with a trans-galatic stone in the backyard to help parents to better bridge the gap between grandparents and children on the family farm. Someone else might be talking about out of body experiences just for the fun of it: "Hey, did you know we could do this? Blow's your mind, man!" And another writer is talking about an agenda to destroy the universe to protect their precious bodily fluids (yes, that was a doctor strange love reference).
+
+Excluding raging hell-religiosity scape-goating people who seem to be falling into the common (and sadly amature) trap of identifying a part of the world as to be scape-goated and eliminated (supposedly because that makes all problems instantly disappear, with no explanation of how that is supposed to work ) I think it is either feasible or pragmatic to suppose there is a common-ground for the other 'clear up illusions' contexts, while also keeping in mind that the world is a big and sometimes strange place that we should not over-estimate our conception of the depth and breadth of.
+
+Glosilalia-Yoga and Remote-Viewing
+Bear with me here, the examples sound strange, but the point I am trying to make is very mundane. 
+
+A consistent and probably important theme in consciousness (and mindfulness, zazan) studies is the awareness of attention and perception of and by itself, where the process and problem space is slippery, difficult, and non-trivial to describe (even for an event that is concrete and simple). 
+
+A basic ~debate in meditation is whether you should be 'doing something' or 'doing nothing.' Arguably, having ~no (extra...but not easy to define 'extra,' when the goals to be mindful of what you DO experience) sensory input does need to be part of the mix, with the classic, 'sit down and don't move and close your eyes for a while and just breath' process (~zazen). 
+
+But, often, the goal is to be able to apply this to daily life. 
+
+the exersize of separating a real-world-signal from static-blips-biases-and-mirages-and-illusions is such a great analogy/metaphore (even if you don't literally believe in 'remove viewing') 
+
+interperting the inner-mind/out-world perception
+
+Another side of this is: active-mind-ful health. 
+Yes, meditation doesn't match well with dancing at a dance-club, but being completely sedentary and unfit is not healthly either. (e.g. how to interpret bodi darma sitting in front of a wall for nine years). 
+
+A very concrete example is Glosilalia-Yoga (Glosilalia = ~non-linguistic forms, nonsense-sounds)
+Not that this shoudl be the only method ever used, but it seems a no-brainer (?) to not ever try this:
+Do a meaningless (no distracting 'words') verbal yoga expression fittness exersize that lasts about 2.5 minutes As that becomes routine, parts of awareness (or the brain, or something(s)) are able to separate from that and just look at where you are and what is happening, say, sitting by a clump of wild grass blowing in the wind. Watching that grass for 2.5 minutes, with various parts of your brain occupied with the Glosilalia-Yoga, will tell you surprising things about your perception (and your perception of your perception) of that blowing grass and other things (including the force of your impatience to do something more sport-thrilling). 
+
+And, interestingly enough, this Glosilalia-Yoga not only exists but it is one of the most internationally wide-spread ritual practices. The back story is very convoluted, but in a nutshell, there is a nonsense-song that for some reason became famous as a 'Buddhist sutra' and has spread over centuries especially across Asia, being part of local traditional practices even where 'buddhism' is not prominent. It's roots, very very oversimplified, may be seen as this: a short non-language artistic expression of the feeling of a large number of (usually long) language-chant-sutras. 
+This is called hanya-shingyo (with each language having a different transliteration), or (in English) the "Heart Sutra."
+
+On the one hand, chanting a Sutra has nothing to do with zazen. But in the nuance of a non-word mindful vocal-fitness consciousness exercise intended to instruct how to live when not doing zazen... the gap becomes a lot smaller. 
+
+Nuanced 'Self':
+This might sound overly technical, but a concrete example is next: not self-anthropomorphizing the causes of things is tricky. Having a nuanced awareness of self and non-self is tricky. Here is a concrete example should be understandable to most people:
+
+It is very difficult for the head of a small or large company, or the administrative executive of a small or large region, to not identify the noisy results of economic booms and busts (which are economic distortions and noise (or adjustments from distortions) not simple economic signal) with themselves, as somehow being caused by or emanating from that leader. Pride at what appears good (even when you can see it is a distorted signal), shame at what looks bad, even if it has nothing to do with anything that person did; it is difficult to not feel this self-causality-confusion. This same pattern could be applied to many other examples: parents and children, developers and software projects, teachers and students, managers and workers, possibly artists and their literature, songs, paintings, etc.
+
+We have in history a curious possible example of this. In WWI as the noble leadership of Germany was destroying their country and Europe, the leadership denied that economics had anything to do with the economy:  To paraphrase ~"The prosperity and standard of living, the industry, and the academics of Germany (top of the world... before WWI) emanated from the majestic-ness of the noble royalty of Germany's royal persons."  Uh... no. 
+
+We should see this as insanity, but also be humbly empathetic that it is very difficult to not make (if on a less catastrophic level) this same type of perception/awareness error. 
+
+And, of course, the Heike Monogatari is a wonderful, empathetic look at how foolish mis-perceptions turned an era of prosperity into an age of civil war and ruin. 
 
 Recap: It may be helpful to think of this as three topics:
 1. Is the agenda to connect to the world or to destroy / escape from the world?
