@@ -202,25 +202,44 @@ This may raise larger questions about whether two different writers use the same
 
 Excluding raging hell-religiosity scape-goating people who seem to be falling into the common (and sadly amature) trap of identifying a part of the world as to be scape-goated and eliminated (supposedly because that makes all problems instantly disappear, with no explanation of how that is supposed to work ) I think it is either feasible or pragmatic to suppose there is a common-ground for the other 'clear up illusions' contexts, while also keeping in mind that the world is a big and sometimes strange place that we should not over-estimate our conception of the depth and breadth of.
 
+
+JFK, Jelly Donut Tiaras, and The Goals of Meditation
+In addition to comments about personal identity and donuts, JFK famously said "Ask not what your country can do for you, but what you can do for your country." (And his book 'Profiles in Courage' is worth reading: https://en.wikipedia.org/wiki/Profiles_in_Courage ). 
+
+Perhaps as in the larger debates about individuals and populations in genetics, ecology, biology, economics, government-administration, and political-theory (among others), there is no known simple single solution to all these problem spaces. But I think most would agree that the question is worth asking in some way, changing JFK's ~question to be one about mindfulness rather than 'country' (though, curiously, 'country' fits rather well for mindfulness in some old texts). 
+
+As a personal assertion: While perhaps challenging and perhaps only applicable in some contexts, I think it is important to keep in mind how and where a focus can or should be on making a positive contribution. There are contexts, however cherry-picked, where I do not think it makes sense to start with a context of how a given effort is going to result in personally aggrandizing trophy collection. Helping a child with homework, helping someone crossing the street, helping a neighbor carry grocery bags, holding the door for someone, smiling to a stranger on the street, or in the JFK-book example taking a personal hit to stand strong on something you see as being more important than your next career advancement. It simply does not make sense to evaluate the value of reading books to your child in terms of the monthly profit it earns or how many trophies it adds to your office desk; it does have a big impact on the world and others, but that value (which may eventually will come back to you sometime) cannot be evaluated by measuring how much people worship or value you in the short and near term (and it may never show up in the 'evaluation of me!' context).  
+
+Arguably the interesting bits are even more subtle: Does how we breath and orient and act have a substantive impact on the world? Do we really positively affect rocks and trees? Do the waves care that we are doing zazen? Does the person on the street benefit in any way from Dogen's 'continual practice'?
+
+Again, this topic turns out to be connected (or inter-connected) here and not recreationally-marginal. Remember what started Thich Nhat Hanh (1926–2022) on the road to creating what we now call the 'Mindfulness' set of disciplines (across STEM, social science, and theologies, civic groups, etc.), it was seeing how the (at first subtle) influence of one mindful person being mindful (on a boat of escaping refugees) consistently resulted in saving the lives of everyone in that community during a disaster: that is not entertainment or spiritual-materialism-art-decoration, it was a physical life or death outcome. What we call nuance and subtlety are often of great consequence.
+
+While there is no quick answer or resolution to these questions in any context, let along across all contexts, I recommend being aware of the topic and periodically being aware of how your mindful practice can benefit the larger (often rather strange) spaces you live in, rather than hyperfocusing on 'me now better! me now better now!!' in what Rupert Sheldrake may describe as a classic 'contraction' of focus and conception (that we would do well to 'extend' and labor to keep extended).  
+
+(And even unresolved, mingling your conception of the boundaries of yourself and the world around you is, arguably, a standard or common Zen curriculum topic that most text-sets would describe as a basic core part of any Zen workflow. However you decide to navigate, this is a key part of the landscape to be conceptually 'aware' of.)
+
+
 Glosilalia-Yoga and Remote-Viewing
 Bear with me here, the examples sound strange, but the point I am trying to make is very mundane. 
 
-A consistent and probably important theme in consciousness (and mindfulness, zazan) studies is the awareness of attention and perception of and by itself, where the process and problem space is slippery, difficult, and non-trivial to describe (even for an event that is concrete and simple). 
+A consistent and probably important theme in consciousness (and mindfulness, zazen) studies is the awareness of attention and perception of and by itself, where the process and problem space is slippery, difficult, and non-trivial to describe (even for an event that is concrete and simple). 
 
 A basic ~debate in meditation is whether you should be 'doing something' or 'doing nothing.' Arguably, having ~no (extra...but not easy to define 'extra,' when the goals to be mindful of what you DO experience) sensory input does need to be part of the mix, with the classic, 'sit down and don't move and close your eyes for a while and just breath' process (~zazen). 
 
-But, often, the goal is to be able to apply this to daily life. 
+But, often, the goal is to be able to apply this to daily life. Not all branches of study need to be focused on this, but I will focus on it sometimes. 
 
-the exersize of separating a real-world-signal from static-blips-biases-and-mirages-and-illusions is such a great analogy/metaphore (even if you don't literally believe in 'remove viewing') 
+Controversy aside, the exercise of 'remote viewing' is an excellent example of sifting through signal and noise in your perceptions, considerations of inputs, and in particular how distortions may appear in what you are trying to output or articulate (this could be a craft or language expression for another person, or just an internal perception of something). 
 
-interperting the inner-mind/out-world perception
+The exercise of separating a real-world-signal from static-blips-biases-and-mirages-and-illusions in 'remove-viewing' picture-drawing (even if you don't literally believe in 'remove viewing') is such a great analogy/metaphor or parellel with the challenges of interpreting inner-mind/out-world perceptions and identities.
 
-Another side of this is: active-mind-ful health. 
-Yes, meditation doesn't match well with dancing at a dance-club, but being completely sedentary and unfit is not healthly either. (e.g. how to interpret bodi darma sitting in front of a wall for nine years). 
+Another side of mindfulness is: active-mind-ful health. 
+Yes, meditation doesn't match well with dancing at a dance-club, but being completely sedentary and unfit is not healthy either. (e.g. how to interpret Bodhidharma sitting in front of a wall for nine years). 
 
 A very concrete example is Glosilalia-Yoga (Glosilalia = ~non-linguistic forms, nonsense-sounds)
-Not that this shoudl be the only method ever used, but it seems a no-brainer (?) to not ever try this:
-Do a meaningless (no distracting 'words') verbal yoga expression fittness exersize that lasts about 2.5 minutes As that becomes routine, parts of awareness (or the brain, or something(s)) are able to separate from that and just look at where you are and what is happening, say, sitting by a clump of wild grass blowing in the wind. Watching that grass for 2.5 minutes, with various parts of your brain occupied with the Glosilalia-Yoga, will tell you surprising things about your perception (and your perception of your perception) of that blowing grass and other things (including the force of your impatience to do something more sport-thrilling). 
+Not that this should be the only method ever used, but it seems a no-brainer (?) to not ever try this:
+Activity: Do a meaningless (no distracting 'words') verbal yoga expression fitness exercise that lasts about 2.5 minutes. As that becomes routine, parts of awareness (or the brain, or something(s)) are able to separate from that and just look at where you are and what is happening, say, sitting by a clump of wild grass blowing in the wind. Watching that grass for 2.5 minutes, with various parts of your brain occupied with the Glosilalia-Yoga, will tell you surprising things about your perception (and your perception of your perception) of that blowing grass and other things (including the force of your impatience to do something more sport-thrilling). 
+
+Note: From actors, to the elderly with speech and swallowing fitness needs, to every-day business office people who want to be clearer in meetings (The Economist has a whole article on this as a mundane topic.), doing vocal-exercises is increasingly becoming a standard part of whole-body health and fitness for everyone.
 
 And, interestingly enough, this Glosilalia-Yoga not only exists but it is one of the most internationally wide-spread ritual practices. The back story is very convoluted, but in a nutshell, there is a nonsense-song that for some reason became famous as a 'Buddhist sutra' and has spread over centuries especially across Asia, being part of local traditional practices even where 'buddhism' is not prominent. It's roots, very very oversimplified, may be seen as this: a short non-language artistic expression of the feeling of a large number of (usually long) language-chant-sutras. 
 This is called hanya-shingyo (with each language having a different transliteration), or (in English) the "Heart Sutra."
@@ -236,7 +255,9 @@ We have in history a curious possible example of this. In WWI as the noble leade
 
 We should see this as insanity, but also be humbly empathetic that it is very difficult to not make (if on a less catastrophic level) this same type of perception/awareness error. 
 
-And, of course, the Heike Monogatari is a wonderful, empathetic look at how foolish mis-perceptions turned an era of prosperity into an age of civil war and ruin. 
+And, of course, the Heike Monogatari is a wonderful, empathetic look at how a crescendo of foolish mis-perceptions turned an era of prosperity into an age of civil war and ruin. 
+
+Within zazen, this theme takes many twists and turns, often difficult to describe. (Section three of Dogen's Shobogenzo may be referring to self-puzzle-fun.)
 
 Recap: It may be helpful to think of this as three topics:
 1. Is the agenda to connect to the world or to destroy / escape from the world?
@@ -259,7 +280,7 @@ A. It is ironically difficult to tell if you have done your daily ~100 zazen bre
 
 B. In innumerable nuanced ways, feeling one bead for each breath can help you to be aware of your breath, body and mind (which... is the goal). Just as the painter or musician uses their fingers in their expression and apprehension of the world, fingers (however strangely) are part of mind (and the cult of the disembodied brain is rarely helpful). As a navigation device like a compass to a hiker, a bead set can make a confusing landscape navigable. 
 
-(Below is a report on various bead-set uses.)
+(~Below is a report on various bead-set uses.)
 
 3. Breath on your own, and mingle your experience with old texts.
 Sometimes, just have your own experience. But sometimes, pick up a book.
