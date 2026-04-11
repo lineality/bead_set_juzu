@@ -1,3 +1,4 @@
+
 # Principles & Recommendations
 
 First, a few concepts that should help with navigating the landscape of meditation and mindfulness, then a simple 'try this' recommended framework to get started with practice. 
@@ -17,7 +18,7 @@ Sharing feedback (which is itself a feedback signal) with a family member or fri
 On another level, as Dogen describes, some parts of zazen are parts of processes of patterns and signals in the natural world outside of, and inside, of us.
 
 
-The Principle of ~Equivalent-Process (maybe not the best term)
+### The Principle of ~Equivalent-Process (maybe not the best term)
 
 The analogy of the moonlit lake:
 Imagine you take a walk around a moonlit lake at night in October. The first step you take in the process of walking around the lake is no less 'moonlit lake' than the last step. When you are done, and the moon is gone, you do not have any more 'moonlit lake' than when you were walking. Moonlit lake is somehow equally (but not absolutely uniformly in every way, each part is unique) embedded through a process, a practice. The practice does not assemble a finished product that then exists. 
@@ -28,7 +29,7 @@ Bringing this analogy back to breathing, and being aware of your breathing: in s
 
 
 
-Interpretation, Nuance & Presumption
+### Interpretation, Nuance & Presumption
 A running theme in mindful-breathing-zazen practice is trying not to make too many presumptions, and learning to be aware of the presumptions that you did not know you had. 
 
 This does not mean you should never make decisions or recognitions or judgement calls: if you realized you are meditating in a burning building, or on the coast just before a tsunami, you should immediately flee to safety. 
@@ -79,10 +80,32 @@ https://en.wikipedia.org/wiki/Hakuin_Ekaku
 
 But I do not recommend the "Book of Serenity." While the introduction by Thomas Cleary is excellent, and theoretically it contains some hidden gems, it is overwhelmingly a toxic equivalent of flame-wars on Reddit and Twitter between sadistic hypermasculine radicalized monks. 
 
+#### Chinese Chan Sport, and Japanese Zen Sportsmanship: No Single Uniform 'Zen'
+I do not mean this to be rudely simplistic, but this is an over-simplified narrative for the purpose of presenting a topic that many western readers have no background to understand.
+
+A. Monasteries in the western imagination are tranquil rural utopias where Gregor Mendal invented pea genetics, and happy go lucky Friar-Tuck brews wine and bakes bread. In the east, India, China, Japan et al, religion and monasteries have been (in addition to scholarship) a social pressure-valve for violent angry under-employed men to be crowd-controlled safely away from society, and otherwise for people (not needing to be violent) who are rejected by society or who reject society to go and live (without starving). 
+
+B. The Indian-Chinese side of Chan-Zen is rife with male sport. Bodi-darma, the Indian monk who traveled to China (or simply away from his home in India (or some chinese sources say Persia)) and was a terrifying, wild-bearded, ill-tempered, un-social, strong willed, character with raging fiery-bulging eyes, (e.g. now popularly associated in China with Shaolin Kung Fu male-warrier culture... probably a historical fiction, but this fits the cultural picture: male war sport (not gentle poet)). Chinese sources such as 'The Book of Serenity' are filled with page after page of angry men beating each other up and challenging each other's manliness (it is painful to sift through to find the nuggets of mind-study scholarship). 
+
+C. In Japan, a significant part of the Heike/Genpei era decline into civil war was out of control monks (not Zen monks per se, there is interestingly no mention of Zen or zazen that I have seen in the Heike Monogatari, which may also be part of the (oral) epic's implicit criticism of Buddhist institutions of the past. These regionally-destabalizing warrior monk uprisings were part of the real-time life of Saigyo (who worked for poetic and social-positive integration of Buddhism) and Dogen, who was born shortly after Saigyo died at the tale end of the heike/Genpei era in the ruined ashes of a golden age turn to war by hot-headed thrill seeking delusional men. 
+
+Even later the warrior monk theme lived on. Zen continued to have lingering associations with samurai warriors and even (if only in disputed debate) in the KamiKaze bombers of  the Pacific War. (And most people now associate Shao Lin temple much more with martial-arts than with humanistic scholarship and institutional reform initiatives.)
+
+This is an important context for understanding the efforts of Saigyo, Dogen, and arguably Sen-no-Rikyu, and perhaps in the celebration of Ryokan (and outside of Japan, the focus of  Thich Nhat Hanh which is clearly not stoking testosterone driven discontent, resentment, and violence), to see their deliberate emphasis on creating a more civilized and civilizing mode and role of Buddhism, Zen, and Mindfulness. 
+
+Arguably the idea of Zen that came to America (embraced by the bold explorations of the Beat & Hippy movements) most closely resembles the Civilized, sportsmanship, intent of Japanese reformers. And since Vietnamese post-war Thich Nhat Hanh started his movement after the 1960s, American peace-zen was possibly part of the overall background that influenced Thich Nhat Hanh (his narrative of the beautiful life miracle of human + nature is utterly unlike anything I've read in Chinese Chan texts, or other Buddhist history such as the chinese origin of the heart sutra. 
+
+This may be useful background for understanding, for example, why Dogen put so much time into and emphasis on civilizing discipline of monks in his Shobogenzo collection of teachings: the risk of uncivilized-monk uprisings may have been for Dogen in the 1200's (and for Saigyo in the 1100's, who lived through those wars) like Nuclear War looming over the post-war OECD world. That we are now not living in fear of warrior monk uprisings may be in part due to the efforts of reformers and civilizers such as Dogen, and we take that so much for granted that we find the topic alien when the topic of monk-discipline comes up in a collection of hippy meditation life-affirmation lessons. 
+
+Zen before after the year 1200, and zen after the 1960's, represent some of the diversity of perspectives and assumptions you will come across. 
+
+
+#### The Other & The Strange
+
 As a final note on interpretation and nuance, something that is difficult not to lose track of is that literature about zen aims to be (or should aim to be) helping or about processes, and experiences during breaking, that cannot be directly put into words, which is bound to be confusing and distracted by the words used. Many things said by Dogen or in Koans do not literally make sense as sentences, but as analogies and tools for experiences that cannot be expressed in words they can be very useful. So you may want to log in some time doing zazen before you try making "sense" of the koan commentary literature.
 
 
-Recognizing & Correcting Mistakes: Learning
+# Recognizing & Correcting Mistakes: Learning
 As another theme-connecting example, the second half (or more) of the widely known (but not widely read) 'Leviathan' by Thomas Hobbes (who famously lived through, and later worked out of France in response to, the English Civil War) is an exploration attempting to understand learning, mind-consciousness, and signals within individuals and society: How do learning-machines work? How does information affect society? Needless to say, centuries later learning and mind are still a mystery, so Hobbes' exploration is largely a collection of questions and references in a collage of study, but it is not a great leap of assumption to presume that (unless he wrote and published the second half of the book by accident) he strongly felt that learning and mind were very important for societal functioning and preventing social collapse.
 
 This is yet another example of mind-study research that followed a period of civil-war, upheaval, and societal collapse, inspiring survivors to try to understand what mistakes lead to bad-thinking, bad-perceptions, wrong-beliefs, misguided agendas, and societal collapse driven by delusions disconnected from reality. 
@@ -104,7 +127,7 @@ Despite the reputation the meditation and buddhism have as being remote, withdra
 - Thich Nhat Hanh 
 
 
-Parallel/Convergent Evolution, Non-Monophyletics, & Synchretism 
+### Parallel/Convergent Evolution, Non-Monophyletics, & Synchretism 
 The current synthesis (speaking broadly of international interest in applying mindful-ness & meditation to health) of mindful / meditation things in the 2020's does not come from one single place, lineage, tradition, or discipline. 
 
 I mention this because as you try to navigate the learning space and learning-curves of meditation, you will undoubtedly wonder: What are the sources? Where should I look for basic information about meditation and mindfulness? Where did it come from? Is there... a basic guide of steps? Who defined basic meditation practice historically? 
@@ -127,7 +150,7 @@ Non-Monophyletics (literally meaning: not from one tree) are groups such as Lili
 World-Supporting mind-awareness health feedback is a convergent set of fields from many disciplines and groups, much like STEM:  the most 'synchretic' of all human domains is STEM itself... which is hardly lacking in rigorous substance (Syncretic STEM is on the other end of that spectrum, being too concerned with rigor to be broadly useful to everything in life). 
 
 
-Potential Disconnection From Reality: Definition Behavior Studies: Modeling System-Collapse, Administrative Logistics, 'Low-Bar Enlightenment' and 'System Empathy'
+### Potential Disconnection From Reality: Definition Behavior Studies: Modeling System-Collapse, Administrative Logistics, 'Low-Bar Enlightenment' and 'System Empathy'
 
 An under-emphasized part of mindfulness & meditation is that there is both a possibility and (more than that) a tendency for the biological mind to become disconnected from reality, and to make navigational decisions and choices that turn out to be counterproductive because they were based on distorted signals or scarcity or absence of data (this might sounds similar to macro & micro economic discussions of market-signals). (The works of Daniel Kahneman and Amos Tversky are arguably also about navigation and decision problems when people lack self-awareness, world-awareness, process-awareness, and quality signal-data.) 
 
@@ -140,7 +163,7 @@ https://github.com/lineality/definition_behavior_studies
 I mention this here, hopefully not just as a shameless pitch for my own research, but as an example of how information that came from somewhere completely unrelated to Zen-breathing can end up being part of the overall picture of how to use zazen-breathing and to contextualize for what: preventing system collapse appears to be, from many directions, one of the underlying themes (one might even say, imperatives and mandates). 
 
 
-"The Orange [Fruit] Meditation"
+#### "The Orange [Fruit] Meditation"
 
 To come full circle, Thich Nhat Hanh was a Vietnamese Buddhist monk (who passed away in 2022 at the age of 95) who is broadly credited and acknowledged as the founded and synthesizer of what in the 2020's was called the 'Mindfullness' movement, which has extended into secular scientific and fitness mindfulness (not needing to have any 'religious' element). 
 
@@ -164,7 +187,7 @@ https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh
 https://www.dharmadrum.org/portal_d8_cnt_page.php?folder_id=72&cnt_id=346&up_page=1 
 
 
-Summary of Dual .vs Non-Dual: 'Solid & Strange', 'Pro-World or Scapegoat'
+## Summary of Dual .vs Non-Dual: 'Solid & Strange', 'Pro-World or Scapegoat'
 
 recap: It may be helpful to think of this as three topics:
 1. Is the agenda to connect to the world or to destroy / escape from the world?
@@ -184,7 +207,7 @@ There will be people who will argue for integration of "Solid" and "Strange" (ho
 
 The agenda distinction is rather clear: Is your goal to define this world as 'hell-fiction' and to destroy the world, or not? This is not something to hedge on: like asking Nazi's about their Jewish policy at Neurenberg.). 
 
-"Dual" and "Reality"
+#### "Dual" and "Reality"
 Now, the semantics. While the above distinction should be clear (Is your goal to define this world as 'hell-fiction' and to destroy the world, or not?), the semantics of 'dual' vs. 'non-dual' are messy because of how duality distinctions operate on so many levels for so many parts of the topic. It is probably best to view 'duality' more as a metaphor, or as a selective reference to a specific concept, rather than trying to make sense of an extreme absolute definition.
 
 The semantics become confusing when each person defines "reality" in a particular way, which can make it so that people are talking past each-other, or speaking in a way that is overly abstract, or simply muddled and self-inconsistent. (Note: I used the term 'solid' above, and not 'reality'.)
@@ -195,7 +218,7 @@ Is the goal is to connect to and integrate and integrate with a dynamic world se
 The terms "dual" and "distinction" are problematic because it is difficult to use them as a scalpel on one only point, without being a sledge hammer that applies to the whole conversation. A key point of disagreement / confusion is that some people refer to 'Non-Dual' as being neither Dual nor Non-Dual, and some people refer to Non-Dual as a single level of meaning: a space that lacks dualities. And perhaps one can't escape the fact that any and all identifications made (including 'dual' and 'non-dual' and 'both-neither-dual-nondoal' are all linguistic distinctions and involve linguistic dualities. 
 
 
-Context: Transcendental Experience or Day-To-Day Administrative Logistics?
+#### Context: Transcendental Experience or Day-To-Day Administrative Logistics?
 It is also important (and perhaps sometimes importantly not possible) to identify what the writer's context is. A passage designed to help someone to navigate a place outside of body and time should not be (unless for art-fun) applied to the completely different context of the world in every-day life.
 
 This may raise larger questions about whether two different writers use the same jargon talking about 'breaking through illusions' are talking about similar things. For example, one writer might be talking about exercises to help a local administrator not starve the local population by becoming a gambling maniac and mismanaging the local agricultural yield estimates. Another writer is talking about having an out of body cosmic connection with a trans-galatic stone in the backyard to help parents to better bridge the gap between grandparents and children on the family farm. Someone else might be talking about out of body experiences just for the fun of it: "Hey, did you know we could do this? Blow's your mind, man!" And another writer is talking about an agenda to destroy the universe to protect their precious bodily fluids (yes, that was a doctor strange love reference).
@@ -203,7 +226,7 @@ This may raise larger questions about whether two different writers use the same
 Excluding raging hell-religiosity scape-goating people who seem to be falling into the common (and sadly amature) trap of identifying a part of the world as to be scape-goated and eliminated (supposedly because that makes all problems instantly disappear, with no explanation of how that is supposed to work ) I think it is either feasible or pragmatic to suppose there is a common-ground for the other 'clear up illusions' contexts, while also keeping in mind that the world is a big and sometimes strange place that we should not over-estimate our conception of the depth and breadth of.
 
 
-JFK, Jelly Donut Tiaras, and The Goals of Meditation
+#### JFK, Jelly Donut Tiaras, and The Goals of Meditation
 In addition to comments about personal identity and donuts, JFK famously said "Ask not what your country can do for you, but what you can do for your country." (And his book 'Profiles in Courage' is worth reading: https://en.wikipedia.org/wiki/Profiles_in_Courage ). 
 
 Perhaps as in the larger debates about individuals and populations in genetics, ecology, biology, economics, government-administration, and political-theory (among others), there is no known simple single solution to all these problem spaces. But I think most would agree that the question is worth asking in some way, changing JFK's ~question to be one about mindfulness rather than 'country' (though, curiously, 'country' fits rather well for mindfulness in some old texts). 
@@ -219,7 +242,7 @@ While there is no quick answer or resolution to these questions in any context, 
 (And even unresolved, mingling your conception of the boundaries of yourself and the world around you is, arguably, a standard or common Zen curriculum topic that most text-sets would describe as a basic core part of any Zen workflow. However you decide to navigate, this is a key part of the landscape to be conceptually 'aware' of.)
 
 
-Glosilalia-Yoga and Remote-Viewing
+### Glosilalia-Yoga and Remote-Viewing
 Bear with me here, the examples sound strange, but the point I am trying to make is very mundane. 
 
 A consistent and probably important theme in consciousness (and mindfulness, zazen) studies is the awareness of attention and perception of and by itself, where the process and problem space is slippery, difficult, and non-trivial to describe (even for an event that is concrete and simple). 
@@ -246,7 +269,7 @@ This is called hanya-shingyo (with each language having a different transliterat
 
 On the one hand, chanting a Sutra has nothing to do with zazen. But in the nuance of a non-word mindful vocal-fitness consciousness exercise intended to instruct how to live when not doing zazen... the gap becomes a lot smaller. 
 
-Nuanced 'Self':
+### Nuanced 'Self':
 This might sound overly technical, but a concrete example is next: not self-anthropomorphizing the causes of things is tricky. Having a nuanced awareness of self and non-self is tricky. Here is a concrete example should be understandable to most people:
 
 It is very difficult for the head of a small or large company, or the administrative executive of a small or large region, to not identify the noisy results of economic booms and busts (which are economic distortions and noise (or adjustments from distortions) not simple economic signal) with themselves, as somehow being caused by or emanating from that leader. Pride at what appears good (even when you can see it is a distorted signal), shame at what looks bad, even if it has nothing to do with anything that person did; it is difficult to not feel this self-causality-confusion. This same pattern could be applied to many other examples: parents and children, developers and software projects, teachers and students, managers and workers, possibly artists and their literature, songs, paintings, etc.
@@ -259,7 +282,7 @@ And, of course, the Heike Monogatari is a wonderful, empathetic look at how a cr
 
 Within zazen, this theme takes many twists and turns, often difficult to describe. (Section three of Dogen's Shobogenzo may be referring to self-puzzle-fun.)
 
-Recap: It may be helpful to think of this as three topics:
+### Recap: It may be helpful to think of this as three topics:
 1. Is the agenda to connect to the world or to destroy / escape from the world?
 2. Experiences that cannot be put into words, or the time-language space of every-day life?
 3. Separating the semantics from the writer's intended focus.
@@ -287,6 +310,7 @@ Sometimes, just have your own experience. But sometimes, pick up a book.
 For example, whether paper, audible, or e-book, this overview-collection of Dogen's ideas is probably an accessible place to start (whereas all the above literary works would be...more time consuming (though very much recommended)).
 https://www.amazon.com/The-Essential-Dogen-audiobook/dp/B00OTWGJ6Y/ 
 https://www.amazon.com/Essential-Dogen-Writings-Great-Master-ebook/dp/B00E3V7RQ2 
+
 
 
 
