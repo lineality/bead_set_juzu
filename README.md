@@ -1,5 +1,4 @@
-
-# Principles & Recommendations
+# Principles & Recommendations: Navigating Zazen and Mindfulness
 
 First, a few concepts that should help with navigating the landscape of meditation and mindfulness, then a simple 'try this' recommended framework to get started with practice. 
 
@@ -163,6 +162,27 @@ https://github.com/lineality/definition_behavior_studies
 I mention this here, hopefully not just as a shameless pitch for my own research, but as an example of how information that came from somewhere completely unrelated to Zen-breathing can end up being part of the overall picture of how to use zazen-breathing and to contextualize for what: preventing system collapse appears to be, from many directions, one of the underlying themes (one might even say, imperatives and mandates). 
 
 
+### Interpreting Ideas across time and culture: Hygiene and Feminism in the USA and Japan
+
+When Dogen wrote about hygiene and managing sexual desire in the 1200's, just after the societal collapse under the mismanagement and mentally-unbalanced excesses of the Heike/Genpei period, he is most likely referring to something different from the classic western demonization of women and nature as being absolute filth to be absolutely destroyed and removed from the universe in an arm-wavy final solution to 'purification' of the world.
+
+Again, the theme of integration is difficult in the west where most concepts tend to be polarizing: witch burning vs. post-modern feminism, anti-nature purging or a Nazi anti-modernity romantic self-destruction in a glory of 'natural' ruin.
+
+There may not be clear words for the type of solutions that Dogen was trying to herd people towards, but it is not too difficult to trace the outlines. Dogen was clearly not anti-nature or anti-feminine or anti-society or anti-government or anti-business. 
+
+For example, while for much of recent history (internationally), the refrain is that any mention of sexual discipline is a dog-whistle for more manly repression of women (even expressions such as 'family values' are code for 'fewer legal rights for women'; this does not fit Dogen's words or context. Dogen was himself unusually ~progressive in arguing for complete equality for women within Buddhist world perception (just on that level it makes little sense to interpret his comments about sexuality as being coded hate speech against women; that wasn't his agenda). Again looking at the stories with which all of Japan was immersed for centuries about what failed during the late 1100s, many of the stories are about sport-seeking men disrespecting women and how that was emblematic of their incompetence and the harm they caused to society (perhaps similarly to how villains in Shakespeare are characterized by them saying random hateful things about women and pet dogs, before then destroying themselves in furious stupidity). So the historical context was that crimes against women were a key cause of calamity, not that women were the cause of calamity. One other note before summarizing.
+
+When it comes to hygiene and sanitation, it is important to note when something was written. In the west we have a young and shallow concept of hygiene based on STEM practices (pasteurization, soap, disinfectantants)  while culturally having vague 'nature is dirty and evil' ideologies at the same time that we habitually follow clean lab procedures. Dogen was writing about public sanitation hygiene centuries before public sanitation technology was successful in the west and before STEM science about epidemiology. Dogen continually argues for a healthy integration with the natural world, not a raging purge of the 'filth of natural evil from pure pureness!' (which is a pathology especially of the west, but found everywhere amongst the mentally ill). Japan has long had a cultural appreciation for public hygiene (before being backed up by STEM) along with a value of nature (not a scape-goating of nature, and not a nihilistic-conflagration-fatalism view of nature). [Note Thich Nhat Hanh and his Plum Village are also not ragingly anti-nature (nor are they ragingly for nature-conflagration-drama.]
+
+So, to summarize, and this should be relevant to Americans who feel obliged to 'purge' their 'minds' of the 'filthy trash' of 'sexuality' etc., Dogen (and Saigyo, and Sen-no-Rikyu, etc.) are trying to explain a civilized approach to responsible living that comprehends an integrated strange world. While the translations of Zen literature may in excerpts look identical to common western fundamentalist absolutistic anti-nature, anti-women, anti-world, word-salad, the meaning is more nuanced and the interpretation across time and culture is not simple. A phrase like "Purity the mind of sexual desire" would be more clearly translated as "Hey, sporty thug-man! Stop harassing and purging women!" Which is sadly the opposite of the default cross-cultural cross-time mis-translation that Americans hear: "I must purge the women. I must make a male-clean sport world. I am a robot." No, that is clearly not a coherent interpretation of any of these Zen-Mindful practices or literatures. "Cleanse the mind of desire" is referring to a ~feminist, integrated, society and government system backed by sanity and respect for women, and not impulse-pleasing extremist ideologies (like purging all nature, purging all women, or destroying the whole world). 
+
+(And as another peripheral note, Tantrayana Buddhism exists in Tibet and Japan (including Kukai's esoteric-arcane Shingon sect (not minimalist Zen)), and westerners are often unsettled by tibetan embrace of sensuality within practice and world-concepts, expecting a Calvinist or Catholic anti-women purge-nature pogrom that they find familiar (and male-sport stimulating). And Ryokan (later period Zen) was also dismissive of pedantic purity, instead focusing on practical health and helping real people.) 
+
+The point being, if as you are doing zazen and sensual thoughts cross your mind-space, the expert advice on how that fits into Zazen Mindfulness may not be what you expect. There are many layers to the strangeness of simply being aware of a passing moment.
+
+[As another note, in the US it is often stated in absolute terms that Japan has no concept of individualism, only of a hive-mind: this is simply not true; Japan does not value American absolutist individualism, but Japan does have an old and sophisticated conception of individuality and individual expression. I think the best brief example of this is music. In the US (and often the west) writing a 'new' song with 'new' words and a 'new' rhythm and 'new' notes in a 'new' genre is not only valued but required, with "plagiarism" being a soul-condemning crime against the universe (complete with foaming mouth and bulging eyes). In Japan individual expression is in 'how' you express and show your style within any given artistic form: sonnet, "haiku", woodblock, dance, song-form etc. The emphasis is on developing your unique expression of voice and conveyance and meaning and story, not pedantically on the new-ness of the formalities of that art-form. This may feed back into mistranslations about expectations for zazen. Americans may see: oh same simple zazen, I am 'just' breathing in and out, my experience will be exactly the same as everyone else because I'm not doing anything new or different." This is profoundly the opposite of anything that makes sense. Within the art-form of 'simply breathing' the range for unique individual expression and experience are profound, and the goal should not be to assume or strive for a uniform lack of development.]
+
+
 #### "The Orange [Fruit] Meditation"
 
 To come full circle, Thich Nhat Hanh was a Vietnamese Buddhist monk (who passed away in 2022 at the age of 95) who is broadly credited and acknowledged as the founded and synthesizer of what in the 2020's was called the 'Mindfullness' movement, which has extended into secular scientific and fitness mindfulness (not needing to have any 'religious' element). 
@@ -310,7 +330,3 @@ Sometimes, just have your own experience. But sometimes, pick up a book.
 For example, whether paper, audible, or e-book, this overview-collection of Dogen's ideas is probably an accessible place to start (whereas all the above literary works would be...more time consuming (though very much recommended)).
 https://www.amazon.com/The-Essential-Dogen-audiobook/dp/B00OTWGJ6Y/ 
 https://www.amazon.com/Essential-Dogen-Writings-Great-Master-ebook/dp/B00E3V7RQ2 
-
-
-
-
