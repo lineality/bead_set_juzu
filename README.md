@@ -333,6 +333,8 @@ A. It is ironically difficult to tell if you have done your daily ~100 zazen bre
 
 B. In innumerable nuanced ways, feeling one bead for each breath can help you to be aware of your breath, body and mind (which... is the goal). Just as the painter or musician uses their fingers in their expression and apprehension of the world, fingers (however strangely) are part of mind (and the cult of the disembodied brain is rarely helpful). As a navigation device like a compass to a hiker, a bead set can make a confusing landscape navigable. 
 
+C. Perhaps like with weight lifting, scuba-diving, and other exercises, trying to dive into too much too quickly does not always yield ideal results. Simply being aware of breathing as you feel over twenty or more beads is a great humble gem.
+
 (~Below is a report on various bead-set uses.)
 
 3. Breath on your own, and mingle your experience with old texts.
