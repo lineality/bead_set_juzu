@@ -302,6 +302,16 @@ And, of course, the Heike Monogatari is a wonderful, empathetic look at how a cr
 
 Within zazen, this theme takes many twists and turns, often difficult to describe. (Section three of Dogen's Shobogenzo may be referring to self-puzzle-fun.)
 
+
+#### Mindfulness integrated into everyday life, not so new
+
+The timeline of meditation, mindfulness, and consciousness sciences from hinduism (if not pre-hinduism) through early Buddhism, to the post-1970's (Vietnamese) Mindfulness that dovetails with American-Japanese Zen (with all the other branches and parts) is curious and an interesting historical puzzle. The more ancient parts we can only speculate about. In many ways the Mindfulness of 2026 is a long evolved and derived refinement that has, though it is difficult to resist fantasizing about long ancient roots, emerged across divergent sources increasingly recently.
+
+One possible counter-example to this (trend of back-loading) is the, strange (as usual), eighth section of Dogen's Shobogenzo. On the one hand this 'every-day' hygiene section is so far from the productized (and I do not mean that as a slander) California-Paris Zen image that books such as the must-read Essential Dogen (by Kazuaki Tanahashi (who's translation of the Shobogenzo I also recommend)) apologize for the un-romantic ordinariness of the lecture. But I think it is possible to see in this palpable strangeness either a foreshadowing or even a foundation of later mindfulness. Dogen's humble hygiene lecture is about bringing mindful attention, focus, respect, humility, and a cultivation of some wonder and whimsy (the lore references are quite something), into the most routine daily hygiene tasks in everyone's (perhaps every living thing's) life, all (while weaving connections between lore, nature, official practice, secular non-buddhist daily life, international cultural communication, etc. What could be more a paradigmatic model of mindfulness than this (admittedly very strange lecture)?  And this is from ~1230-1250 c.e., the period I keep coming back to as just starting to sow the seeds of some elements that later become fully recognizable mindfullness. Yet in places like oddity number eight we see what is almost fully fledged mindfulness. And while it is rather boringly tedious for most people to read today, at the time he was called to re-give this 'every-day' lecture to Buddhist monasteries at least three times over more than a decade. And at least implicitly it contains something which is not yet pervasive in suave sciencey-mindfulness: communication, teaching and the psychology of human development. 
+
+In terms of puzzles of interpretation, I suggest this is quite interesting. There are surely parts of Dogen's writings that do not age well, but I think this might be one of the many parts that do.
+
+
 ### Recap: It may be helpful to think of this as three topics:
 1. Is the agenda to connect to the world or to destroy / escape from the world?
 2. Experiences that cannot be put into words, or the time-language space of every-day life?
@@ -330,3 +340,5 @@ Sometimes, just have your own experience. But sometimes, pick up a book.
 For example, whether paper, audible, or e-book, this overview-collection of Dogen's ideas is probably an accessible place to start (whereas all the above literary works would be...more time consuming (though very much recommended)).
 https://www.amazon.com/The-Essential-Dogen-audiobook/dp/B00OTWGJ6Y/ 
 https://www.amazon.com/Essential-Dogen-Writings-Great-Master-ebook/dp/B00E3V7RQ2 
+
+
