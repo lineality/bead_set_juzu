@@ -1,3 +1,4 @@
+
 # Principles & Recommendations: Navigating Zazen and Mindfulness
 
 First, a few concepts that should help with navigating the landscape of meditation and mindfulness, then a simple 'try this' recommended framework to get started with practice. 
@@ -96,12 +97,12 @@ This may be useful background for understanding, for example, why Dogen put so m
 Zen before after the year 1200, and zen after the 1960's, represent some of the diversity of perspectives and assumptions you will come across. 
 
 
-#### The Other & The Strange
+### The Other & The Strange (Principle)
 
 As a final note on interpretation and nuance, something that is difficult not to lose track of is that literature about zen aims to be (or should aim to be) helping or about processes, and experiences during breaking, that cannot be directly put into words, which is bound to be confusing and distracted by the words used. Many things said by Dogen or in Koans do not literally make sense as sentences, but as analogies and tools for experiences that cannot be expressed in words they can be very useful. So you may want to log in some time doing zazen before you try making "sense" of the koan commentary literature.
 
 
-# Recognizing & Correcting Mistakes: Learning
+# Recognizing & Correcting Mistakes: Learning  (Principle)
 As another theme-connecting example, the second half (or more) of the widely known (but not widely read) 'Leviathan' by Thomas Hobbes (who famously lived through, and later worked out of France in response to, the English Civil War) is an exploration attempting to understand learning, mind-consciousness, and signals within individuals and society: How do learning-machines work? How does information affect society? Needless to say, centuries later learning and mind are still a mystery, so Hobbes' exploration is largely a collection of questions and references in a collage of study, but it is not a great leap of assumption to presume that (unless he wrote and published the second half of the book by accident) he strongly felt that learning and mind were very important for societal functioning and preventing social collapse.
 
 This is yet another example of mind-study research that followed a period of civil-war, upheaval, and societal collapse, inspiring survivors to try to understand what mistakes lead to bad-thinking, bad-perceptions, wrong-beliefs, misguided agendas, and societal collapse driven by delusions disconnected from reality. 
@@ -115,7 +116,7 @@ https://www.amazon.com/Political-Order-Decay-Industrial-Globalization/dp/0374535
 A critical balance that, as Fukuyama outlines (or theorizes), all instances and types of societies need to maintain on various levels is avoiding state-distraction or state-capture by any particular interest, institution, or local-family-tribe interest (where there is a particular friction point between regional leaders (often called nobles, regents, lords, war-lords, big-men, chiefs, aristocrats, etc, in English) and an abstract administration shared across regions and institutions and which should be impartial and not biased by pathology. For centuries Shigon worked in coordination with both overall administration and with regional/local leaders as a pre-STEM academic wing of administration dynamics. This may be merely a historical curiosity, but it is interesting that Shingon existed as a kind of precursor to administrative statistics (state-data) in Japan, given the reputation of Buddhism as being anti-world or separate from the world.
 
 
-#### Connection to the World
+#### Connection to the World  (Principle)
 Despite the reputation the meditation and buddhism have as being remote, withdrawn, self-isolating, forcing the world and yourself out of your mind, etc., there are many examples and parallels here about the context of 21st century mindfulness being focused on an overt effort (if not a struggle and fight) to connect with and stay connected to the world, and having reliable data with which to operate and make decisions and evaluations (as well as other experiences). This is not a new, last-minute, pivot and re-interpretation of ancient ideas. At least in Japan this effort (to connect mind-focus to societal health) goes back almost a thousand years. And over and over we see key contributors having a life-context of working to understand and prevent societal disorientation and collapse because they lived through (or just after) a catastrophic societal collapse.
 - Saigyo
 - Dogen
@@ -123,7 +124,7 @@ Despite the reputation the meditation and buddhism have as being remote, withdra
 - Thich Nhat Hanh 
 
 
-### Parallel/Convergent Evolution, Non-Monophyletics, & Synchretism 
+### Parallel/Convergent Evolution, Non-Monophyletics, & Synchretism  (Principle)
 The current synthesis (speaking broadly of international interest in applying mindful-ness & meditation to health) of mindful / meditation things in the 2020's does not come from one single place, lineage, tradition, or discipline. 
 
 I mention this because as you try to navigate the learning space and learning-curves of meditation, you will undoubtedly wonder: What are the sources? Where should I look for basic information about meditation and mindfulness? Where did it come from? Is there... a basic guide of steps? Who defined basic meditation practice historically? 
@@ -146,7 +147,7 @@ Non-Monophyletics (literally meaning: not from one tree) are groups such as Lili
 World-Supporting mind-awareness health feedback is a convergent set of fields from many disciplines and groups, much like STEM:  the most 'synchretic' of all human domains is STEM itself... which is hardly lacking in rigorous substance (Syncretic STEM is on the other end of that spectrum, being too concerned with rigor to be broadly useful to everything in life). 
 
 
-### Potential Disconnection From Reality: Definition Behavior Studies: Modeling System-Collapse, Administrative Logistics, 'Low-Bar Enlightenment' and 'System Empathy'
+### Potential Disconnection From Reality: Definition Behavior Studies: Modeling System-Collapse, Administrative Logistics, 'Low-Bar Enlightenment' and 'System Empathy'  (Principle)
 
 An under-emphasized part of mindfulness & meditation is that there is both a possibility and (more than that) a tendency for the biological mind to become disconnected from reality, and to make navigational decisions and choices that turn out to be counterproductive because they were based on distorted signals or scarcity or absence of data (this might sounds similar to macro & micro economic discussions of market-signals). (The works of Daniel Kahneman and Amos Tversky are arguably also about navigation and decision problems when people lack self-awareness, world-awareness, process-awareness, and quality signal-data.) 
 
@@ -173,7 +174,7 @@ When it comes to hygiene and sanitation, it is important to note when something 
 
 So, to summarize, and this should be relevant to Americans who feel obliged to 'purge' their 'minds' of the 'filthy trash' of 'sexuality' etc., Dogen (and Saigyo, and Sen-no-Rikyu, etc.) are trying to explain a civilized approach to responsible living that comprehends an integrated strange world. While the translations of Zen literature may in excerpts look identical to common western fundamentalist absolutistic anti-nature, anti-women, anti-world, word-salad, the meaning is more nuanced and the interpretation across time and culture is not simple. A phrase like "Purity the mind of sexual desire" would be more clearly translated as "Hey, sporty thug-man! Stop harassing and purging women!" Which is sadly the opposite of the default cross-cultural cross-time mis-translation that Americans hear: "I must purge the women. I must make a male-clean sport world. I am a robot." No, that is clearly not a coherent interpretation of any of these Zen-Mindful practices or literatures. "Cleanse the mind of desire" is referring to a ~feminist, integrated, society and government system backed by sanity and respect for women, and not impulse-pleasing extremist ideologies (like purging all nature, purging all women, or destroying the whole world). 
 
-(And as another peripheral note, Tantrayana Buddhism exists in Tibet and Japan (including Kukai's esoteric-arcane Shingon sect (not minimalist Zen)), and westerners are often unsettled by tibetan embrace of sensuality within practice and world-concepts, expecting a Calvinist or Catholic anti-women purge-nature pogrom that they find familiar (and male-sport stimulating). And Ryokan (later period Zen) was also dismissive of pedantic purity, instead focusing on practical health and helping real people.) 
+(And as another peripheral note, Tantrayana Buddhism exists in Tibet and Japan (including Kukai's esoteric-arcane Shingon sect (not minimalist Zen)), and westerners are often unsettled by tibetan embrace of sensuality within practice and world-concepts, expecting a Calvinist or Catholic anti-women purge-nature pogrom that they find familiar (and male-sport stimulating). And Ryokan (later-period Zen) was also dismissive of pedantic purity, instead focusing on practical health and helping real people.) 
 
 The point being, if as you are doing zazen and sensual thoughts cross your mind-space, the expert advice on how that fits into Zazen Mindfulness may not be what you expect. There are many layers to the strangeness of simply being aware of a passing moment.
 
@@ -204,7 +205,8 @@ https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh
 https://www.dharmadrum.org/portal_d8_cnt_page.php?folder_id=72&cnt_id=346&up_page=1 
 
 
-## Summary of Dual .vs Non-Dual: 'Solid & Strange', 'Pro-World or Scapegoat'
+## Summary of Dual .vs Non-Dual: 'Solid & Strange', 'Pro-World or Scapegoat'  (Principle)
+
 
 recap: It may be helpful to think of this as three topics:
 1. Is the agenda to connect to the world or to destroy / escape from the world?
@@ -224,7 +226,8 @@ There will be people who will argue for integration of "Solid" and "Strange" (ho
 
 The agenda distinction is rather clear: Is your goal to define this world as 'hell-fiction' and to destroy the world, or not? This is not something to hedge on: like asking Nazi's about their Jewish policy at Neurenberg.). 
 
-#### "Dual" and "Reality"
+#### "Dual" and "Reality"  (Principle)
+
 Now, the semantics. While the above distinction should be clear (Is your goal to define this world as 'hell-fiction' and to destroy the world, or not?), the semantics of 'dual' vs. 'non-dual' are messy because of how duality distinctions operate on so many levels for so many parts of the topic. It is probably best to view 'duality' more as a metaphor, or as a selective reference to a specific concept, rather than trying to make sense of an extreme absolute definition.
 
 The semantics become confusing when each person defines "reality" in a particular way, which can make it so that people are talking past each-other, or speaking in a way that is overly abstract, or simply muddled and self-inconsistent. (Note: I used the term 'solid' above, and not 'reality'.)
@@ -235,7 +238,8 @@ Is the goal is to connect to and integrate and integrate with a dynamic world se
 The terms "dual" and "distinction" are problematic because it is difficult to use them as a scalpel on one only point, without being a sledge hammer that applies to the whole conversation. A key point of disagreement / confusion is that some people refer to 'Non-Dual' as being neither Dual nor Non-Dual, and some people refer to Non-Dual as a single level of meaning: a space that lacks dualities. And perhaps one can't escape the fact that any and all identifications made (including 'dual' and 'non-dual' and 'both-neither-dual-nondoal' are all linguistic distinctions and involve linguistic dualities. 
 
 
-#### Context: Transcendental Experience or Day-To-Day Administrative Logistics?
+#### Context: Transcendental Experience or Day-To-Day Administrative Logistics?  (Principle)
+
 It is also important (and perhaps sometimes importantly not possible) to identify what the writer's context is. A passage designed to help someone to navigate a place outside of body and time should not be (unless for art-fun) applied to the completely different context of the world in every-day life.
 
 This may raise larger questions about whether two different writers use the same jargon talking about 'breaking through illusions' are talking about similar things. For example, one writer might be talking about exercises to help a local administrator not starve the local population by becoming a gambling maniac and mismanaging the local agricultural yield estimates. Another writer is talking about having an out of body cosmic connection with a trans-galatic stone in the backyard to help parents to better bridge the gap between grandparents and children on the family farm. Someone else might be talking about out of body experiences just for the fun of it: "Hey, did you know we could do this? Blow's your mind, man!" And another writer is talking about an agenda to destroy the universe to protect their precious bodily fluids (yes, that was a doctor strange love reference).
@@ -243,7 +247,8 @@ This may raise larger questions about whether two different writers use the same
 Excluding raging hell-religiosity scape-goating people who seem to be falling into the common (and sadly amature) trap of identifying a part of the world as to be scape-goated and eliminated (supposedly because that makes all problems instantly disappear, with no explanation of how that is supposed to work ) I think it is either feasible or pragmatic to suppose there is a common-ground for the other 'clear up illusions' contexts, while also keeping in mind that the world is a big and sometimes strange place that we should not over-estimate our conception of the depth and breadth of.
 
 
-#### JFK, Jelly Donut Tiaras, and The Goals of Meditation
+#### JFK, Jelly Donut Tiaras, and The Goals of Meditation  (Principle)
+
 In addition to comments about personal identity and donuts, JFK famously said "Ask not what your country can do for you, but what you can do for your country." (And his book 'Profiles in Courage' is worth reading: https://en.wikipedia.org/wiki/Profiles_in_Courage ). 
 
 Perhaps as in the larger debates about individuals and populations in genetics, ecology, biology, economics, government-administration, and political-theory (among others), there is no known simple single solution to all these problem spaces. But I think most would agree that the question is worth asking in some way, changing JFK's ~question to be one about mindfulness rather than 'country' (though, curiously, 'country' fits rather well for mindfulness in some old texts). 
@@ -259,34 +264,46 @@ While there is no quick answer or resolution to these questions in any context, 
 (And even unresolved, mingling your conception of the boundaries of yourself and the world around you is, arguably, a standard or common Zen curriculum topic that most text-sets would describe as a basic core part of any Zen workflow. However you decide to navigate, this is a key part of the landscape to be conceptually 'aware' of.)
 
 
+#### Recap: Three Guiding Questions (for interpreting texts)
+1. Is the agenda to connect to the world or to destroy / escape from the world?
+2. Experiences that cannot be put into words, or the time-language space of every-day life?
+3. Separating the semantics from the writer's intended focus.
+
+Also:
+For math and theology, there are writers who arbitrarily delight in saying things that do not have a clear intended meaning, and there are readers who arbitrarily delight in reading things that are unclear. As an 'art' or 'game' hobby, this is probably fine, possibly great. But for consciousness research, and medical health, it is important not to confuse someone who is trying to speak meaningfully about a topic vs. someone who is deliberately entertaining themselves and others by saying meaningless confusions (which might have lovely artistic, or cathartic, or other value). There are also the well documented areas and disinformation and other non-meaningful language areas. Just because something was said does not indicate that there is any meaning in it to be read into, very often no meaning was ever intended. 
+
+
 ### Glosilalia-Yoga and Remote-Viewing
-Bear with me here, the examples sound strange, but the point I am trying to make is very mundane. 
+(Bear with me here, the examples sound strange, but the point I am trying to make is very mundane.)
 
-A consistent and probably important theme in consciousness (and mindfulness, zazen) studies is the awareness of attention and perception of and by itself, where the process and problem space is slippery, difficult, and non-trivial to describe (even for an event that is concrete and simple). 
+A consistent and probably important theme in consciousness (and mindfulness, zazen) studies is the awareness of attention and to perception of the perceiver itself (by the perceiver itself), where the process and problem-space is slippery, difficult, and non-trivial to describe (even for an event that is concrete and simple). 
 
-A basic ~debate in meditation is whether you should be 'doing something' or 'doing nothing.' Arguably, having ~no (extra...but not easy to define 'extra,' when the goals to be mindful of what you DO experience) sensory input does need to be part of the mix, with the classic, 'sit down and don't move and close your eyes for a while and just breath' process (~zazen). 
+A basic ~debate in meditation is whether you should be 'doing something' or 'doing nothing.' Arguably, having ~no sensory input (or "extra" input...but not easy to define 'extra,' when the goal is to be mindful of what you DO experience) does need to be part of the overall mix of practices, such as the classic, 'sit down and don't move and close your eyes for a while and just breath' process (~zazen). 
 
 But, often, the goal is to be able to apply this to daily life. Not all branches of study need to be focused on this, but I will focus on it sometimes. 
 
-Controversy aside, the exercise of 'remote viewing' is an excellent example of sifting through signal and noise in your perceptions, considerations of inputs, and in particular how distortions may appear in what you are trying to output or articulate (this could be a craft or language expression for another person, or just an internal perception of something). 
+Controversy aside, the exercise of 'remote viewing' is an excellent example of sifting through signal and noise in your perceptions, considerations of inputs, and in particular how distortions may appear in what you are trying to output and output (or articulate) (this could be a craft or language expression for another person, or just an internal perception of something). 
 
-The exercise of separating a real-world-signal from static-blips-biases-and-mirages-and-illusions in 'remove-viewing' picture-drawing (even if you don't literally believe in 'remove viewing') is such a great analogy/metaphor or parellel with the challenges of interpreting inner-mind/out-world perceptions and identities.
+The exercise of separating a real-world-signal from static-blips-biases-mirages-and-illusions in 'remove-viewing' picture-drawing (even if you don't literally believe in 'remove viewing') is such a great analogy/metaphor or parallel with the challenges of interpreting inner-mind/out-world perceptions and identities. In many areas of life it can be difficult (but important) to be aware of how and where we blend our own biases and rationalizations into data and conclusions.
 
 Another side of mindfulness is: active-mind-ful health. 
-Yes, meditation doesn't match well with dancing at a dance-club, but being completely sedentary and unfit is not healthy either. (e.g. how to interpret Bodhidharma sitting in front of a wall for nine years). 
+Yes, meditation does not match well with dancing at a dance-club, but being completely sedentary and unfit is not healthy either. (e.g. How exactly should we interpret Bodhidharma sitting in front of a wall for nine years?) 
 
 A very concrete example is Glosilalia-Yoga (Glosilalia = ~non-linguistic forms, nonsense-sounds).
-Not that this should be the only method ever used, but it seems a no-brainer (?) to not ever try this:
-Activity: Do a meaningless (no distracting 'words') verbal yoga expression fitness exercise that lasts about 2.5 minutes. As that becomes routine, parts of awareness (or the brain, or something(s)) are able to separate from that and just look at where you are and what is happening, say, sitting by a clump of wild grass blowing in the wind. Watching that grass for 2.5 minutes, with various parts of your brain occupied with the Glosilalia-Yoga, will tell you surprising things about your perception (and your perception of your perception) of that blowing grass and other things (including the force of your impatience to do something more sport-thrilling). 
+Not that this should be the only method ever used, but there is a broad consensus that vocalization activities have a variety of health and wellness benefits:
 
-Note: From actors, to the elderly with speech and swallowing fitness needs, to every-day business office people who want to be clearer in meetings (The Economist has a whole article on this as a mundane topic.), doing vocal-exercises is increasingly becoming a standard part of whole-body health and fitness for everyone.
+Activity: Do a meaningless (no distracting 'words') verbal yoga expression fitness exercise that lasts about 2.5 minutes. 
 
-And, interestingly enough, this Glosilalia-Yoga not only exists but it is one of the most internationally wide-spread ritual practices. The back story is very convoluted, but in a nutshell, there is a nonsense-song that for some reason became famous as a 'Buddhist sutra' and has spread over centuries especially across Asia, being part of local traditional practices even where 'buddhism' is not prominent. It's roots, very very oversimplified, may be seen as this: a short non-language artistic expression of the feeling of a large number of (usually long) language-chant-sutras. 
-This is called hanya-shingyo (with each language having a different transliteration), or (in English) the "Heart Sutra."
+As that becomes routine, parts of awareness (or the brain, or something(s)) are able to separate from ~'the yoga exercise' and be aware of sensory input where you are and what is happening, say, sitting by a clump of wild grass blowing in the wind. Watching that grass for 2.5 minutes, with various parts of your brain occupied with the Glosilalia-Yoga, will tell you surprising things about your perception (and your perception of your perception) of that blowing grass and other things (including the force of your impatience to do something more sport-thrilling). 
+
+Note: From actors, to the elderly with speech and swallowing fitness needs, to every-day business office people who want to be clearer in meetings (The Economist has a whole article on this as a mundane topic), doing vocal-exercises is increasingly becoming a standard part of whole-body health and fitness for everyone.
+
+And, interestingly enough, this Glosilalia-Yoga not only exists but it is one of the most internationally wide-spread ritual practices. The back story is very convoluted, but in a nutshell, there is a nonsense-song that for some reason became famous as a 'Buddhist sutra' and has spread over centuries especially across Asia, integrating into parts of local traditional practices even where 'buddhism' is not prominent. Its roots, very very oversimplified, may be seen as this: a short non-language artistic expression of the feeling of a large number of (usually long) language-chant-sutras was distilled and published along with the sutras: the short 'tone-poem' nonsense-song became the popular favorite and spread. 
+This is called (in Japanese) hanya-shingyo (with each language having a different transliteration), or (in English) the "Heart Sutra."
 
 On the one hand, chanting a Sutra has nothing to do with zazen. But in the nuance of a non-word mindful vocal-fitness consciousness exercise intended to instruct how to live when not doing zazen... the gap becomes a lot smaller. 
 
-### Nuanced 'Self':
+### Nuanced 'Self'  (Principle)
 This might sound overly technical, but a concrete example is next: not self-anthropomorphizing the causes of things is tricky. Having a nuanced awareness of self and non-self is tricky. Here is a concrete example should be understandable to most people:
 
 It is very difficult for the head of a small or large company, or the administrative executive of a small or large region, to not identify the noisy results of economic booms and busts (which are economic distortions and noise (or adjustments from distortions) not simple economic signal) with themselves, as somehow being caused by or emanating from that leader. Pride at what appears good (even when you can see it is a distorted signal), shame at what looks bad, even if it has nothing to do with anything that person did; it is difficult to not feel this self-causality-confusion. This same pattern could be applied to many other examples: parents and children, developers and software projects, teachers and students, managers and workers, possibly artists and their literature, songs, paintings, etc.
@@ -300,7 +317,7 @@ And, of course, the Heike Monogatari is a wonderful, empathetic look at how a cr
 Within zazen, this theme takes many twists and turns, often difficult to describe. (Section three of Dogen's Shobogenzo may be referring to self-puzzle-fun.)
 
 
-#### Mindfulness integrated into everyday life, not so new
+#### Mindfulness integrated into everyday life, not so new  (Principle)
 
 The timeline of meditation, mindfulness, and consciousness sciences from hinduism (if not pre-hinduism) through early Buddhism, to the post-1970's (Vietnamese) Mindfulness that dovetails with American-Japanese Zen (with all the other branches and parts) is curious and an interesting historical puzzle. The more ancient parts we can only speculate about. In many ways the Mindfulness of 2026 is a long evolved and derived refinement that has, though it is difficult to resist fantasizing about long ancient roots, emerged across divergent sources increasingly recently.
 
@@ -329,14 +346,6 @@ This may also be part of the larger spatial-temporal timeline of the meandering 
 However framed, the principle-concept-point here is the value in having a clear focus on, and effort-of-practice in, world-integrated directions (and that this is not an automatically agreed upon area of value, function, and meaning).
 
 
-### Recap: It may be helpful to think of this as three topics:
-1. Is the agenda to connect to the world or to destroy / escape from the world?
-2. Experiences that cannot be put into words, or the time-language space of every-day life?
-3. Separating the semantics from the writer's intended focus.
-
-Also:
-For math and theology, there are writers who arbitrarily delight in saying things that do not have a clear intended meaning, and there are readers who arbitrarily delight in reading things that are unclear. As an 'art' or 'game' hobby, this is probably fine, possibly great. But for consciousness research, and medical health, it is important not to confuse someone who is trying to speak meaningfully about a topic vs. someone who is deliberately entertaining themselves and others by saying meaningless confusions (which might have lovely artistic, or cathartic, or other value). There are also the well documented areas and disinformation and other non-meaningful language areas. Just because something was said does not indicate that there is any meaning in it to be read into, very often no meaning was ever intended. 
-
 
 # Try three variables both ways:
 
@@ -359,4 +368,5 @@ Sometimes, just have your own experience. But sometimes, pick up a book.
 For example, whether paper, audible, or e-book, this overview-collection of Dogen's ideas is probably an accessible place to start (whereas all the above literary works would be...more time consuming (though very much recommended)).
 https://www.amazon.com/The-Essential-Dogen-audiobook/dp/B00OTWGJ6Y/ 
 https://www.amazon.com/Essential-Dogen-Writings-Great-Master-ebook/dp/B00E3V7RQ2 
+
 
