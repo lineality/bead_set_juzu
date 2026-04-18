@@ -42,9 +42,6 @@ Another presumption may be that 'just breathing' or 'just being aware' does not 
 As in the analogy of the moon and the lake for Dogen's concept of the start of a process being in some ways comparable to any other part of a process, many parts of zazen, or mindfulness, or signal-feedback, are in a process across which the starting steps are (if confusingly) as significant and any later steps.
 
 
-
-
-
 #### Interpreting Old Books
 
 There is a lot of valuable lore and research in old texts, but figuring out how you should interpret and utilize the information can take an unexpectedly convoluted and lengthy process. 
@@ -278,7 +275,7 @@ The exercise of separating a real-world-signal from static-blips-biases-and-mira
 Another side of mindfulness is: active-mind-ful health. 
 Yes, meditation doesn't match well with dancing at a dance-club, but being completely sedentary and unfit is not healthy either. (e.g. how to interpret Bodhidharma sitting in front of a wall for nine years). 
 
-A very concrete example is Glosilalia-Yoga (Glosilalia = ~non-linguistic forms, nonsense-sounds)
+A very concrete example is Glosilalia-Yoga (Glosilalia = ~non-linguistic forms, nonsense-sounds).
 Not that this should be the only method ever used, but it seems a no-brainer (?) to not ever try this:
 Activity: Do a meaningless (no distracting 'words') verbal yoga expression fitness exercise that lasts about 2.5 minutes. As that becomes routine, parts of awareness (or the brain, or something(s)) are able to separate from that and just look at where you are and what is happening, say, sitting by a clump of wild grass blowing in the wind. Watching that grass for 2.5 minutes, with various parts of your brain occupied with the Glosilalia-Yoga, will tell you surprising things about your perception (and your perception of your perception) of that blowing grass and other things (including the force of your impatience to do something more sport-thrilling). 
 
@@ -312,14 +309,34 @@ One possible counter-example to this (trend of back-loading) is the, strange (as
 In terms of puzzles of interpretation, I suggest this is quite interesting. There are surely parts of Dogen's writings that do not age well, but I think this might be one of the many parts that do.
 
 
+### Hubris and Fall
+There may be a cultural-concept parallel or bridge between the more elaborated and nuanced concepts about distorted-perceptions causing system failures (and how to empathise with those who made mistakes) in the Heike-monogatari, the works of Saigyo, and Dogen (all part of the same historical context) and the western-world concept of "pride comes before a fall," and the older Greek concept of hubris. 
+
+But in the western tradition there is not (that I am aware of) a commonly drawn connection between traditional concepts of hubris and much more recent (post WW2, if not post-post-war) concept-sets of Agile Project Management and the decision making, perception and communication work of Kahneman & Tversky (both considered mainstream business practice and Nobel science by the 2020s).
+
+Both the east and the west may benefit from connecting more of these dots for contemporary applications. 
+
+
+### Reliable Signals For Projects: 
+One divergence of schools of thought is between people who prefer purely abstract mindfulness vs. people who see the reliability of 'signals' (close to reality, not artifacts of distortions leading to illusions and confusions) as being an underlying factor in a world where things happen. Distorted signals, inadequate communication, and mis-aligned orientations are issues empirically where they cause 'something' to go wrong in a real-world ~'project' context. While I do think there is value in the abstract and pure-research direction, my view (or perception) is that there is also value in the world-integrated and 'applied.'
+
+There have been, and will be, many who see the natural conclusion of all these concepts and all this research and work as pointing to the 'grand solution' that people should not live at all. I respectfully disagree with this literal conclusion as such, and find it too close to being an escapist cargo-cult of the imagery of mindfulness that is not internally consistent with the set of ideas supposedly leading to that conclusion: How can we not care about doing a better job, in the world, of what was mismanaged after concluding that there were negative effects on some real world outcomes that resulted from perception distortion and mismanagement? "Don't do any more projects." appears to be either very non-literal and in need of explanation or a pathologically wrong conclusion. "Don't eat." has been the guiding-goal of various branches of Buddhism (see the history of self-mummification by starvation), but this is not the path that mindfulness as described here goes. 
+
+This may also be part of the larger spatial-temporal timeline of the meandering evolution of mindfulness research and practices, where the roots may have come from more absolutist zealous religious extremists who wanted to escape reality (into... what exactly?). Assuming we agree that mindfulness evolved out of the Hindu, Jain, Buddhist etc. very very broad and diverse webs of theology and lore, there was some path between the very diverse concerns of this ecosystem of related traditions to a narrower focus on the concepts outlined here (as a representative sample). For example, I would argue (perhaps not a standard interpretation) that one can view the Heike Monogatari as broadly a criticism of a wide array of Buddhist practices that fixated on this or that fetish and political ambition, distracted from undistorted attention on what was happening, while society collapsed.
+
+"Don't live" is not the same view or goal as "live mindfully." Yet, the "live mindfully" appears to be a more refined and clarified (if that term is appropriate) paradigm that is derived from and evolved from the absolutist hell-world rejection-scapegoating of "don't live." It could be argued that the intention of mindful healthy living did exist historically, and that the distinction is more 'horizontal' between diverging schools of thought. 
+
+However framed, the principle-concept-point here is the value in having a clear focus on, and effort-of-practice in, world-integrated directions (and that this is not an automatically agreed upon area of value, function, and meaning).
+
+
 ### Recap: It may be helpful to think of this as three topics:
 1. Is the agenda to connect to the world or to destroy / escape from the world?
 2. Experiences that cannot be put into words, or the time-language space of every-day life?
 3. Separating the semantics from the writer's intended focus.
 
-
 Also:
 For math and theology, there are writers who arbitrarily delight in saying things that do not have a clear intended meaning, and there are readers who arbitrarily delight in reading things that are unclear. As an 'art' or 'game' hobby, this is probably fine, possibly great. But for consciousness research, and medical health, it is important not to confuse someone who is trying to speak meaningfully about a topic vs. someone who is deliberately entertaining themselves and others by saying meaningless confusions (which might have lovely artistic, or cathartic, or other value). There are also the well documented areas and disinformation and other non-meaningful language areas. Just because something was said does not indicate that there is any meaning in it to be read into, very often no meaning was ever intended. 
+
 
 # Try three variables both ways:
 
@@ -342,5 +359,4 @@ Sometimes, just have your own experience. But sometimes, pick up a book.
 For example, whether paper, audible, or e-book, this overview-collection of Dogen's ideas is probably an accessible place to start (whereas all the above literary works would be...more time consuming (though very much recommended)).
 https://www.amazon.com/The-Essential-Dogen-audiobook/dp/B00OTWGJ6Y/ 
 https://www.amazon.com/Essential-Dogen-Writings-Great-Master-ebook/dp/B00E3V7RQ2 
-
 
