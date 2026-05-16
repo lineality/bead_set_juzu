@@ -226,6 +226,47 @@ There will be people who will argue for integration of "Solid" and "Strange" (ho
 
 The agenda distinction is rather clear: Is your goal to define this world as 'hell-fiction' and to destroy the world, or not? This is not something to hedge on: like asking Nazi's about their Jewish policy at Neurenberg.). 
 
+
+#### Strange-Concept Basics:
+
+It might help to have an overall framework for handling the strangeness. We can (very roughly) break this into three areas. 
+
+1. Starting core practices:
+- breathing
+- perceiving and not-perceiving in quiet environments
+- bead-dolls
+
+2. That there is something odd about the dynamics of information:
+- perception feedback systems
+- sensory deprivation
+- not-looking & not-abstraction
+- other spaces
+- (perhaps) DFN, the Default Mode Network
+- the paradoxes beyond the time-membrane
+- the paradoxes around the time-membrane
+
+#### Particular unexpected Strangeness:
+- same-ness and change-ness
+- identity-ness
+
+
+3. Re-Integration and Application of what is learned to daily-reality:
+##### Standard pitfalls here include:
+- going gaga over there being more to the world than expected
+- getting muddled over trying to use words across the veil
+- misinterpreting the unexpected in an escapist entertainment way
+- misrepresenting outside-of-time as a goal of time
+
+#### Areas to integrate:
+- Distinguishing and balancing more overt consciousness-separation and marginal-curiosities from everyday and more nuanced practices and skills.  
+- The unusual geometry of dynamics of and beyond short term perception and language.
+- A less noisy interface with simple dynamics
+- Using basic awareness feedback with out drama
+- the elusive 'compassion-connection-to-outside-'you' chapter of things (which may also have quite mundane and useful aspects as well)
+
+
+
+
 #### "Dual" and "Reality"  (Principle)
 
 Now, the semantics. While the above distinction should be clear (Is your goal to define this world as 'hell-fiction' and to destroy the world, or not?), the semantics of 'dual' vs. 'non-dual' are messy because of how duality distinctions operate on so many levels for so many parts of the topic. It is probably best to view 'duality' more as a metaphor, or as a selective reference to a specific concept, rather than trying to make sense of an extreme absolute definition.
@@ -346,6 +387,76 @@ This may also be part of the larger spatial-temporal timeline of the meandering 
 However framed, the principle-concept-point here is the value in having a clear focus on, and effort-of-practice in, world-integrated directions (and that this is not an automatically agreed upon area of value, function, and meaning).
 
 
+### Timelines & Unknowns: 1100-1200
+The main concept or principle around the timeline of the development of ideas and techniques is that there has been a dynamic timelines (or there have been dynamic timelines) and that (like history in general) much is unknown or unclear: it is not the case that there has always been one static universally agreed upon set of principles and practices. 
+
+Here are a few notable slices:
+1. mind-medicine and healthy vs. unhealthy mental modes: not quite the same a super-abstract 'enlightenment-ness'
+
+There is probably a mosaic through time of people emphasizing either 'real world therapy for individual people with unique individual issues' vs. the supremely simplistic one-problem, one-solution approach (which might echo early attempts to understand change in the west, e.g. absolutist catastrophism). 
+
+
+2. 600-800 & 1100-1200
+
+Often timelines appear counter-intuitive.
+
+While it is easy to think of Bodidharma's travel from India to China as being an incredibly ancient event lost to the sands of time (it's hard to say how much of the story is metaphor, or legend, or factual), that was roughly the same time period as Kukai traveling from Japan to China and back. And around the year 700 was also the rough year of the very strange origin of the "heart sutra" (when Xuanzang travels from China to India and back). 
+
+With a bit of squinting, Xuanzang玄奘, Bodhidharma and Kūkai空海/Kōbō Daishi弘法 大師, could all have chatted in an inn eating udon and drinking tea.
+
+Likewise, Dogen 道元, Saigyo 西行 法師, and Yuanwu Keqin 圓悟克勤 (and other), could nearly have met.
+
+Not only that, but (according to the Taizen Maezumi foreword to the 1977 Cleary translation of the Blue Cliff Record), it was Dogen who first brought a version of the Blue Cliff Record to Japan.
+
+https://en.wikipedia.org/wiki/Heart_Sutra
+https://en.wikipedia.org/wiki/K%C5%ABkai
+https://en.wikipedia.org/wiki/Bodhidharma
+
+https://en.wikipedia.org/wiki/D%C5%8Dgen
+https://en.wikipedia.org/wiki/Yuanwu_Keqin
+https://en.wikipedia.org/wiki/Xuedou_Chongxian 
+
+https://www.amazon.com/Secrets-Blue-Cliff-Record-Comments/dp/1570629129
+vs.
+https://www.amazon.com/Blue-Cliff-Record-Thomas-Cleary/dp/159030232X/ 
+
+
+3. A long and varied timeline (and spatial distance) from Indian hindu beads to Japanese Buddhist Jyuzu.
+
+As with any history it is either difficult or unrealistic to identify highly-clear points and patterns. It is a fabulous maze of creations, discoveries, losses, rediscoveries, communications and non-communications, and 'human stories' across cultures. 
+
+I do highly recommend reading Michael Pollan's "How to change your mind" and "A world appears" while also reading old texts and historical studies. 
+
+https://www.amazon.com/Heart-Sutra-Comprehensive-Mahayana-Buddhism/dp/1611803128 
+https://www.amazon.com/World-Appears-Journey-into-Consciousness/dp/B0FQT7ZLRW
+https://www.amazon.com/How-to-Change-Your-Mind-audiobook/dp/B07B1V3RF5
+https://www.amazon.com/The-Essential-Dogen-audiobook/dp/B00OTWGJ6Y/ 
+https://www.amazon.com/Sky-Above-Great-Wind-audiobook/dp/B00NU4JJL4
+https://www.amazon.com/Tale-Heike-HIROSHI-KITAGAWA/dp/0860081281 
+https://www.amazon.com/Awesome-Nightfall-Times-Poetry-Saigyo-ebook/dp/B00B77AIC0/ 
+
+Including books referenced along the way:
+https://www.amazon.com/The-Varieties-of-Religious-Experience/dp/B002NVYE8S
+https://www.amazon.com/Principles-Psychology-Vol-I/dp/B07934NVKV/
+https://www.amazon.com/Principles-Psychology-Vol-II/dp/B07KCMQGFN/ 
+
+https://www.amazon.com/Technology-Academics-Universities-Scientific-Revolution/dp/1014404819/ 
+https://www.amazon.com/Two-Cultures-Scientific-Revolution/dp/B0CX5R618Z 
+
+And even longer-period history books:
+https://www.amazon.com/Rise-Fall-Dinosaurs-History-World-ebook/dp/B0727TN8H6/
+https://www.amazon.com/Rise-Reign-Mammals-History-Dinosaurs/dp/B09K4H3X31 
+https://www.amazon.com/Story-Birds-History-Dinosaur-Origins/dp/B0FLYSCMYP/ 
+
+
+### Not So Fast
+
+To paraphrase Terence Kevin McKenna: ~'With many techniques the attitude is pedal to the metal, but it is the brakes that get the workout with this method.'
+
+I recommend trying a variety of mindfulness techniques in moderation, and, in the spirit of mindfulness, trying to be attentive to what happens and being attentive to what you are doing with what you have learned.
+
+Jumping in with a naive demand for entertainment may result in confusing stress or worse. By analogy, international travel can and should be an eye-opening and enriching experience. But there are real risks and dangers, depending on how cavalier one's approach is. Going to another country and immediately running to traffic without looking both ways is likely to result in "adventure," but not of an ideal and edifying kind.
+
 
 # Try three variables both ways:
 
@@ -368,5 +479,6 @@ Sometimes, just have your own experience. But sometimes, pick up a book.
 For example, whether paper, audible, or e-book, this overview-collection of Dogen's ideas is probably an accessible place to start (whereas all the above literary works would be...more time consuming (though very much recommended)).
 https://www.amazon.com/The-Essential-Dogen-audiobook/dp/B00OTWGJ6Y/ 
 https://www.amazon.com/Essential-Dogen-Writings-Great-Master-ebook/dp/B00E3V7RQ2 
+
 
 
