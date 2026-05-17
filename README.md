@@ -1,4 +1,3 @@
-
 # Principles & Recommendations: Navigating Zazen and Mindfulness
 
 First, a few concepts that should help with navigating the landscape of meditation and mindfulness, then a simple 'try this' recommended framework to get started with practice. 
@@ -449,6 +448,19 @@ https://www.amazon.com/Rise-Reign-Mammals-History-Dinosaurs/dp/B09K4H3X31
 https://www.amazon.com/Story-Birds-History-Dinosaur-Origins/dp/B0FLYSCMYP/ 
 
 
+#### The Laughing Riddles of Mind & Learning
+
+One of the 'debate themes' of the Heike Monogatari is the tension between the learning from natural events framed as 'aware' (the japanese term: a-wa-re) vs. what is presented as a pedantic Buddhist technocracy.
+
+A subtext of this tension is the tension between the humours-riddles of teachers and koans to inspire learning in students, vs. both the morbid and nihilistic trends in stereotypical buddhism and the similarly stereotypically morose and dramatically anguished reputation of 'a-wa-re.' In the same way, the story of the Heike continually cheers and charms with the endearing ridiculousness of human behavior, almost deliberately inappropriately as the overall tale is so much presented as tragedy that there may be a pretext of partial satire; e.g. in the later theater of Noh and Kyogen in the 1300's Kanami and Zeami split the ponderous and the slapstick into two paired presentations. So it is not entirely an illusion of hindsight to see in these performative Japanese traditions a pairing of serious and ridiculous. 
+
+As in our time-line view, the tradition of 'tricking the mind to wake up, teacher to student, generation to generation' is a theme in Buddhism older than later concepts such as 'koans' and 'mindfulness.' And to bookend this timeline, I recommend reading this book about a late Edo period charming eccentric zen mon (and shinto priest, if accidentally): 
+ 
+https://www.amazon.com/Sky-Above-Great-Wind-audiobook/dp/B00NU4JJL4
+
+The mindbendingly earnest antics of Ryokan are not only transcendently funny (striking both Japanese and American observers as being relative-counter-intuitive (despite Japan and America being incomparably different and inexplicable to each-other), but also thought-provokingly mind-stirring (also in a way that somehow transcends time, language, and cultural space). In this, Ryokan, either deliberately or somehow by accident, became a living example and embodiment of the trick-story (the riddle that shifts how your mind sees the world) that is deeply embedded in the Buddhist tradition. 
+
+
 ### Not So Fast
 
 To paraphrase Terence Kevin McKenna: ~'With many techniques the attitude is pedal to the metal, but it is the brakes that get the workout with this method.'
@@ -479,6 +491,5 @@ Sometimes, just have your own experience. But sometimes, pick up a book.
 For example, whether paper, audible, or e-book, this overview-collection of Dogen's ideas is probably an accessible place to start (whereas all the above literary works would be...more time consuming (though very much recommended)).
 https://www.amazon.com/The-Essential-Dogen-audiobook/dp/B00OTWGJ6Y/ 
 https://www.amazon.com/Essential-Dogen-Writings-Great-Master-ebook/dp/B00E3V7RQ2 
-
 
 
